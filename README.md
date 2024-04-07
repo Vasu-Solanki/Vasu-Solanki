@@ -59,6 +59,7 @@
 </div>
 
 ###
+<h2 align="left">Snake🐍 eating my workdays🟢</h2>
 
 <img src="https://raw.githubusercontent.com/Vasu-Solanki/Vasu-Solanki/output/snake.svg" alt="Snake animation" />
 
