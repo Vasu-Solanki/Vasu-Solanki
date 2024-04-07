@@ -59,6 +59,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vasu-Solanki/Vasu-Solanki/output/snake.svg" alt="Snake animation" />
-
 ###
