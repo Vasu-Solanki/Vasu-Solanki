@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Contact me here 🤳</h2>
+<h2 align="left">The Lanuguages🧰 & Tool🛠 I use </h2>
 
 ###
 
