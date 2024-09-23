@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1uN0pw53IsDHRtBJHfsWRQ&ust=1727208554326000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLil6bPv2YgDFQAAAAAdAAAAABAE" alt="GIF image">
+  <img height="300" src="pic.gif" alt="GIF image">
 </div>
 
 
